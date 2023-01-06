@@ -1,0 +1,79 @@
+
+body {
+  font-size: 14px;
+}
+.section1 {
+  width: 99%;
+  height: 808px;
+  background: url("./images/banner/banner3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.htxt1 {
+  width: 525px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  top: 216px;
+  left: 700px;
+  font-family: Work Sans;
+  font-weight: Bold;
+  font-size: 65px;
+  opacity: 1;
+  text-align: right;
+}
+.htxt2 {
+  width: 494px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 468px;
+  left: 700px;
+  font-family: Work Sans;
+  font-weight: Regular;
+  font-size: 16px;
+  opacity: 1;
+  text-align: right;
+}
+.hbtn {
+  width: 160px;
+  height: 64px;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 578px;
+  left: 1050px;
+  overflow: hidden;
+}
+.hbtntxt {
+  width: 160px;
+  height: 64px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+.hbtntxt1 {
+  width: 109px;
+  color: rgba(0,95,172,1);
+  position: absolute;
+  top: 21px;
+  left: 26px;
+  font-family: Work Sans;
+  font-weight: SemiBold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: right;
+}
+
